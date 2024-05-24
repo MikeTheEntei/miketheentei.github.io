@@ -5,7 +5,7 @@ function addSitemap() {
 	content.insertAdjacentHTML(
 		"afterend",
         "<hr>" +
-		"<p id=\"Sitemap\"> Click on any town to explore this site! Grayed-out towns lead to placeholders for now.</p><p><img src=\"Johto_4x_v1.png\" alt=\"Sitemap\" usemap=\"#Johto\"><map name=\"Johto\">" +
+		"<p id=\"Sitemap\"> Click on any town to explore this site! Grayed-out towns lead to placeholders for now.</p><p><img src=\"Johto 4x v1.png\" alt=\"Sitemap\" usemap=\"#Johto\"><map name=\"Johto\">" +
             "<area shape=\"rect\" coords=\"636, 412, 684, 456\" href=\"index.html\" title=\"Back to the homepage\"> <!-- New Bark -->" +
             "<area shape=\"rect\" coords=\"476, 412, 556, 460\" href=\"https://miketheentei.w3spaces.com/about-me.html\" title=\"About Mike the Entei\"> <!-- Cherrygrove -->" +
             "<area shape=\"rect\" coords=\"412, 252, 492, 332\" href=\"https://miketheentei.w3spaces.com/nature.html\" title=\"Photos of the natural world\"> <!-- Violet -->" +
